@@ -11,10 +11,10 @@ Welcome! This site is a curated, personal reference for planning submissions in 
 
 ## What's inside
 
-- **[Conferences](conferences.md)** — CORE A* and A conferences (ICSE, FSE, ASE, ISSTA, MSR, and more), their focus, typical deadlines, and co-located events.
-- **[Journals](journals.md)** — the main SE journals (TSE, TOSEM, EMSE, JSS, IST, and more), publisher, approximate impact factor, and submission model.
-- **[Deadlines & Reminders](deadlines.md)** — a quick-reference deadline view, plus how the automated email reminder in this repository works.
-- **[Setup & Automation](setup.md)** — how this site is hosted on GitHub Pages, and how to turn on email reminders with GitHub Actions.
+- **[Conferences](conferences.html)** — CORE A* and A conferences (ICSE, FSE, ASE, ISSTA, MSR, and more), their focus, typical deadlines, and co-located events.
+- **[Journals](journals.html)** — the main SE journals (TSE, TOSEM, EMSE, JSS, IST, and more), publisher, approximate impact factor, and submission model.
+- **[Deadlines & Reminders](deadlines.html)** — a quick-reference deadline view, plus how the automated email reminder in this repository works.
+- **[Setup & Automation](setup.html)** — how this site is hosted on GitHub Pages, and how to turn on email reminders with GitHub Actions.
 
 {: .warning }
 > **Check before you submit**

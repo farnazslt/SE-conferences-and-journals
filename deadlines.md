@@ -9,7 +9,7 @@ description: Quick-reference deadlines and email reminders
 
 ## Quick reference — typical annual cycle
 
-Ordered roughly by when in the year the deadline falls. All dates are *typical* — see [Conferences](conferences.md) for notes and always confirm the official CFP.
+Ordered roughly by when in the year the deadline falls. All dates are *typical* — see [Conferences](conferences.html) for notes and always confirm the official CFP.
 
 | Month | Venues typically due |
 |---|---|
@@ -32,7 +32,7 @@ This repository contains a ready-to-use reminder system:
 - `send_reminders.py` — checks the list and emails you when a deadline is **14, 7, or 1 days** away.
 - `.github/workflows/reminder.yml` — runs the check automatically **every day at 08:00 UTC** via GitHub Actions.
 
-To switch it on, add three repository secrets (Settings → Secrets and variables → Actions): `SMTP_USER`, `SMTP_PASSWORD` (a Gmail App Password), and `MY_EMAIL`. Full step-by-step instructions are on the [Setup & Automation](setup.md) page.
+To switch it on, add three repository secrets (Settings → Secrets and variables → Actions): `SMTP_USER`, `SMTP_PASSWORD` (a Gmail App Password), and `MY_EMAIL`. Full step-by-step instructions are on the [Setup & Automation](setup.html) page.
 
 {: .warning }
 > The example entries in `deadlines.json` are placeholders based on typical cycles. Replace them with the exact dated deadlines of the editions you are actually targeting, otherwise reminders will fire for the wrong dates.
