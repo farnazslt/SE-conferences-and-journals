@@ -1,0 +1,9 @@
+[
+  { "conference": "MSR 2027 Mining Challenge - Abstract", "deadline": "2026-12-18" },
+  { "conference": "MSR 2027 Mining Challenge - Paper", "deadline": "2026-12-23" },
+  { "conference": "ISSTA 2027 - Paper (typical cycle, verify CFP)", "deadline": "2027-01-20" },
+  { "conference": "FSE 2027 Spring Cycle - Paper (typical cycle, verify CFP)", "deadline": "2027-01-29" },
+  { "conference": "MSR 2027 - Paper (typical cycle, verify CFP)", "deadline": "2027-02-06" },
+  { "conference": "ASE 2027 - Paper (typical cycle, verify CFP)", "deadline": "2027-04-25" },
+  { "conference": "ICSE 2028 - Paper (typical cycle, verify CFP)", "deadline": "2027-10-15" }
+]

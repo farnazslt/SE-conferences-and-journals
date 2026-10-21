@@ -1,8 +1,11 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Software Engineering Venues
+description: Curated list of top software engineering conferences and journals - CORE rankings, impact factors, typical deadlines, and co-located events.
 theme: just-the-docs
-
-url: https://just-the-docs.github.io
-
+url: "https://farnazslt.github.io"
+baseurl: "/SE-conferences-and-journals"
+search_enabled: true
+color_scheme: default
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  GitHub Repository:
+    - "https://github.com/farnazslt/SE-conferences-and-journals"
+footer_content: "Built with Just the Docs on GitHub Pages. Rankings, impact factors and deadlines are indicative - always check the official call for papers or journal page before submitting."
