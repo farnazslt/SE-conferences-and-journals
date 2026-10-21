@@ -4,7 +4,7 @@ theme: just-the-docs
 url: "https://farnazslt.github.io"
 baseurl: "/SE-conferences-and-journals"
 search_enabled: true
-color_scheme: default
+color_scheme: light
 aux_links:
   GitHub Repository:
     - "https://github.com/farnazslt/SE-conferences-and-journals"
